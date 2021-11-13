@@ -43,4 +43,7 @@
 
 <p><b>pandas :</b> Pandas est une bibliothèque écrite pour le langage de programmation Python permettant la manipulation et l'analyse des données. Elle propose en particulier des structures de données et des opérations de manipulation de tableaux numériques et de séries temporelles.<p> 
  <p>   <b>reduce :</b> La fonction reduction (fun, seq) permet d'appliquer une fonction particulière passée dans son argument à tous les éléments de liste mentionnés dans la séquence passée. Cette fonction est définie dans le module «functools».</p>
+import numpy as np
+import pandas as pd
+from functools import reduce 
     
