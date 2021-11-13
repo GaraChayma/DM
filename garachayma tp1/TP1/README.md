@@ -37,13 +37,4 @@
 <LI>Étape 4 : Gérer les données manquantes</LI>
     
 </UL>
- <h3 style ="color : #0492C2 ; font-size: 30px; font-weight:900;  text-align: center;"> Partie PRATIQUE </h3>
-     <h3 style ="color : #da70d6 ; font-size: 24px; font-weight:900;"> 1- Importer les bibliothèques **numpy** et **pandas** et importer functools de reduce </h3>
-            <p><b>numpy : </b>La bibliothèque NumPy permet d’effectuer des calculs numériques avec Python. Elle introduit une gestion facilitée des tableaux de nombres.</p>
-
-<p><b>pandas :</b> Pandas est une bibliothèque écrite pour le langage de programmation Python permettant la manipulation et l'analyse des données. Elle propose en particulier des structures de données et des opérations de manipulation de tableaux numériques et de séries temporelles.<p> 
- <p>   <b>reduce :</b> La fonction reduction (fun, seq) permet d'appliquer une fonction particulière passée dans son argument à tous les éléments de liste mentionnés dans la séquence passée. Cette fonction est définie dans le module «functools».</p>
-import numpy as np
-import pandas as pd
-from functools import reduce 
-    
+ 
