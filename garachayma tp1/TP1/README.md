@@ -14,3 +14,19 @@
           <p style ="color : #000000 ; font-size: 16px; font-weight:900;">5- L’analyse de données </p>
           <p style ="color : #000000 ; font-size: 16px; font-weight:900;">6- Le machine learning </p>
           <p style ="color : #000000 ; font-size: 16px; font-weight:900;">7- La régression</p>
+<h4 style ="color : #cf465a ; font-size: 20px; font-weight:900;"> Les bénéfices à tirer de la fouille de données </h4>
+           <p><u><b>Le data mining</b></u> permet aux entreprises de comprendre le passé et le présent en faisant des prédictions précises sur ce qui est susceptibles d’arriver à partir des données afin d’optimiser leur avenir.</p>
+<br>
+<b>Ce processus de fouille peut être utilisé pour répondre à de nombreux objectifs business et commerciaux comme :</b>
+
+
+<ul>
+<li>Augmenter ses revenus</li>
+<li>Mieux comprendre les segments de clientèle et leurs préférences</li>
+<li>Acquérir de nouveaux clients</li>
+<li>Améliorer le cross-selling et la vente incitative</li>
+<li>Fidéliser les clients et augmenter le taux de rétention (fidélité)</li>
+<li>Augmenter le ROI des campagnes marketing</li>
+<li>Détecter une fraude</li>
+<li>Identifier les risques</li>
+<li>Suivre les performances opérationnelles</li><ul>
