@@ -17,8 +17,7 @@
 <h4 style ="color : #cf465a ; font-size: 20px; font-weight:900;"> Les bénéfices à tirer de la fouille de données </h4>
            <p><u><b>Le data mining</b></u> permet aux entreprises de comprendre le passé et le présent en faisant des prédictions précises sur ce qui est susceptibles d’arriver à partir des données afin d’optimiser leur avenir.</p>
 <br>
-<b>Ce processus de fouille peut être utilisé pour répondre à de nombreux objectifs business et commerciaux comme :</b>
-<ul> <li>Augmenter ses revenus</li>
+<b>Ce processus de fouille peut être utilisé pour répondre à de nombreux objectifs business et commerciaux comme :</b><ul> <li>Augmenter ses revenus</li>
      <li>Mieux comprendre les segments de clientèle et leurs préférences</li>
      <li>Acquérir de nouveaux clients</li>
      <li>Améliorer le cross-selling et la vente incitative</li>
