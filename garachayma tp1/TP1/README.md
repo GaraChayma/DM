@@ -27,7 +27,7 @@
      <li>Identifier les risques</li>
      <li>Suivre les performances opérationnelles</li><ul>
   
-<h3 style ="color : #da70d6 ; font-size: 24px; font-weight:900;"> 2) Data Cleaning </h3>
+<h3> 2) Data Cleaning </h3>
     <p><B><U>Le nettoyage de données </U></B> est le processus de correction ou de suppression des données incorrectes, corrompues, mal formatées, en double ou incomplètes dans un ensemble de données. Lors de la combinaison de plusieurs sources de données, il existe de nombreuses opportunités pour les données d'être dupliquées ou mal étiquetées. Si les données sont incorrectes, les résultats et les algorithmes ne sont pas fiables, même s'ils peuvent sembler corrects. Il n'existe pas de moyen absolu de prescrire les étapes exactes du processus de nettoyage des données, car les processus varient d'un ensemble de données à l'autre. Mais il est crucial d'établir un modèle pour votre processus de nettoyage des données afin que vous sachiez que vous le faites de la bonne manière à chaque fois.</p>
  <H3>Comment nettoyer les données ?</H3>
 <P>Bien que les techniques utilisées pour le nettoyage des données puissent varier en fonction des types de données stockées par votre entreprise, vous pouvez suivre ces étapes de base pour définir un cadre pour votre organisation.</P>
