@@ -1,3 +1,3 @@
 # segmentation
 
-<img src="img.GIF">
+<img src="img.gif">
